@@ -1,3 +1,6 @@
 
 My emacs configurations, many of them which copied from ahei (emacer.com)
 
+Install (windows) :
+1. git clone https://github.com/lhchen/dot-emacs.git
+2. mklink ~/.emacs /path/to/dot-emacs/.emacs
